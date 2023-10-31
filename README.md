@@ -1,4 +1,4 @@
-# UPO_TFM
+# PAM prediction in Pseudomonas aeruginosa
 
 Here you will the scripts and data associated with the research article "Search for PAM sequences associated with CRISPR-Cas systems in _Pseudomonas aeruginosa_ and their enrichment in plasmids and phages" [under preparation]. A brief comment on the purpose of each script is provided here:
 - **script1_spacers_df.R**
