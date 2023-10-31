@@ -1,6 +1,6 @@
 # UPO_TFM
 
-Here you will the scripts and data used for the Advanced Bioinformatics Analysis Master's Thesis called "Search for PAM sequences associated with CRISPR-Cas systems in _Pseudomonas aeruginosa_ and their enrichment in plasmids and phages". A brief comment on the purpose of each script is provided here:
+Here you will the scripts and data associated with the research article "Search for PAM sequences associated with CRISPR-Cas systems in _Pseudomonas aeruginosa_ and their enrichment in plasmids and phages" [under preparation]. A brief comment on the purpose of each script is provided here:
 - **script1_spacers_df.R**
 Construction of the _Pseudomonas aeruginosa_ spacers dataframe for the `df2fasta()` function of the Spacer2PAM library. The spacers were collected from the output of CRISPRCasFinder and filtered based on known CRISPR-Cas array orientation and evidence level equal to 4, and known subtype determined by CRISPRCas-Typer.
 
